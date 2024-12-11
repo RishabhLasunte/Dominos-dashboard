@@ -4,7 +4,7 @@ To create a Power BI dashboard for Domino's that provides insights into total re
 # dataset uses
 - <a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/Domino's.csv">dominos dataset</a>
 # dashboard intertive
-- <a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/dominos%20dasboard%20ss.png">dominos dataset</a>
+- <a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/dominos%20dasboard%20ss.png">dominos dashboard</a>
 
 # Insights This Dashboard Will Provide
 This dashboard will answer the following key questions:
