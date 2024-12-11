@@ -1,14 +1,11 @@
 # Dominos-dashboard (Interactive Dashboard creation using MS Excel)
 # Objective
 To create a Power BI dashboard for Domino's that provides insights into total revenue, number of orders, average orders, sales trends by weekday, category breakdown, and top-selling pizzas to drive data-driven decisions and optimize performance.
-# Dataset
-The dataset should contain the following fields:
-Sales Data: Order ID, Order Date, Revenue, Sales Channel.
-Product Data: Product Name, Category, Quantity Sold, Price.
-Customer Data (Optional): Customer ID, Region, Customer Type.
-Operational Data (Optional): Delivery Time, Day of Week.
 # dataset uses
-- <a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/Domino's.csv">dominos dashboard</a>
+- <a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/Domino's.csv">dominos dataset</a>
+# dashboard intertive
+<a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/Domino's.csv">dominos dataset</a>
+
 # Insights This Dashboard Will Provide
 This dashboard will answer the following key questions:
 
