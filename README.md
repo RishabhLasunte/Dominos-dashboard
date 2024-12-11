@@ -9,17 +9,17 @@ To create a Power BI dashboard for Domino's that provides insights into total re
 # Insights This Dashboard Will Provide
 This dashboard will answer the following key questions:
 
-What is the total revenue generated?
+- What is the total revenue generated?
 A KPI tile displaying total revenue.
-How many orders were placed?
+- How many orders were placed?
 A KPI tile showing the total number of orders.
-What is the average number of orders?
+- What is the average number of orders?
 A calculation of average orders per day or week.
-Which days of the week generate the highest sales?
+- Which days of the week generate the highest sales?
 A bar chart or heatmap showing sales by weekday.
-What is the breakdown of items sold by category?
+- What is the breakdown of items sold by category?
 A pie chart or stacked bar chart illustrating sales by category (pizza, beverages, desserts, etc.).
-Which pizza is the most popular?
+- Which pizza is the most popular?
 A table or bar chart ranking pizzas by sales volume.
 # Conclusion
 The Domino's Power BI Dashboard will provide a comprehensive view of sales performance, customer preferences, and operational efficiency. By consolidating key metrics such as total revenue, number of orders, and sales trends into an interactive dashboard, Domino's management can:
