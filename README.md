@@ -21,6 +21,7 @@ A bar chart or heatmap showing sales by weekday.
 A pie chart or stacked bar chart illustrating sales by category (pizza, beverages, desserts, etc.).
 - Which pizza is the most popular?
 A table or bar chart ranking pizzas by sales volume.
+
 # Conclusion
 The Domino's Power BI Dashboard will provide a comprehensive view of sales performance, customer preferences, and operational efficiency. By consolidating key metrics such as total revenue, number of orders, and sales trends into an interactive dashboard, Domino's management can:
 
@@ -29,4 +30,7 @@ Enhance Operational Efficiency: Tracking average orders and sales by weekday wil
 Improve Customer Focus: Identifying popular categories and best-selling pizzas allows Domino's to cater to customer preferences more effectively.
 Maximize Revenue Potential: Understanding which sales channels and products drive the most revenue will help prioritize high-performing areas.
 This dashboard will act as a powerful tool for monitoring, analyzing, and enhancing overall business performance, ensuring Domino's stays competitive in the market.
+# dashboard 
+![dominos dasboard ss](https://github.com/user-attachments/assets/e10ac10d-2fe3-4fb3-93ed-e0e7c5e57a7c)
+
 
