@@ -8,7 +8,7 @@ Product Data: Product Name, Category, Quantity Sold, Price.
 Customer Data (Optional): Customer ID, Region, Customer Type.
 Operational Data (Optional): Delivery Time, Day of Week.
 # dataset uses
-<a herf="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/Domino's.csv">dominos dashboard</a>
+- <a href="https://github.com/RishabhLasunte/Dominos-dashboard/blob/main/Domino's.csv">dominos dashboard</a>
 # Insights This Dashboard Will Provide
 This dashboard will answer the following key questions:
 
