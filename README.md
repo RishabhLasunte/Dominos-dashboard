@@ -1,27 +1,13 @@
 # Dominos-dashboard (Interactive Dashboard creation using MS Excel)
-#Objective
+# Objective
 To create a Power BI dashboard for Domino's that provides insights into total revenue, number of orders, average orders, sales trends by weekday, category breakdown, and top-selling pizzas to drive data-driven decisions and optimize performance.
-#Dataset
+# Dataset
 The dataset should contain the following fields:
-
-Sales Data
-Order ID: Unique identifier for each order.
-Order Date/Time: Date and time of the order.
-Revenue: Total revenue for the order.
-Sales Channel: Delivery, dine-in, or takeaway.
-Product Data
-Product Name: Name of the item sold (e.g., Margherita Pizza, Coke).
-Category: Category of the product (e.g., Pizza, Beverage, Dessert).
-Quantity Sold: Number of units sold.
-Price: Price per unit.
-Customer Data (Optional)
-Customer ID: Unique identifier for customers.
-Region/Store: Location where the order was placed.
-Demographics: Age, gender, etc. (if available).
-Operational Data (Optional)
-Delivery Time: Time taken for delivery.
-Order Completion Status: On-time, delayed, etc.
-#Insights This Dashboard Will Provide
+Sales Data: Order ID, Order Date, Revenue, Sales Channel.
+Product Data: Product Name, Category, Quantity Sold, Price.
+Customer Data (Optional): Customer ID, Region, Customer Type.
+Operational Data (Optional): Delivery Time, Day of Week.
+# Insights This Dashboard Will Provide
 This dashboard will answer the following key questions:
 
 What is the total revenue generated?
@@ -36,3 +22,12 @@ What is the breakdown of items sold by category?
 A pie chart or stacked bar chart illustrating sales by category (pizza, beverages, desserts, etc.).
 Which pizza is the most popular?
 A table or bar chart ranking pizzas by sales volume.
+# Conclusion
+The Domino's Power BI Dashboard will provide a comprehensive view of sales performance, customer preferences, and operational efficiency. By consolidating key metrics such as total revenue, number of orders, and sales trends into an interactive dashboard, Domino's management can:
+
+Make Data-Driven Decisions: Insights on top-performing products and peak sales days will enable better marketing and promotional strategies.
+Enhance Operational Efficiency: Tracking average orders and sales by weekday will help optimize staffing and inventory management.
+Improve Customer Focus: Identifying popular categories and best-selling pizzas allows Domino's to cater to customer preferences more effectively.
+Maximize Revenue Potential: Understanding which sales channels and products drive the most revenue will help prioritize high-performing areas.
+This dashboard will act as a powerful tool for monitoring, analyzing, and enhancing overall business performance, ensuring Domino's stays competitive in the market.
+
